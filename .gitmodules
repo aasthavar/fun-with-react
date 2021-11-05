@@ -1,0 +1,3 @@
+[submodule "tic-tac-toe-react"]
+	path = tic-tac-toe-react
+	url = https://github.com/Aastha-Varma/tic-tac-toe-react.git
